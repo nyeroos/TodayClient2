@@ -15,7 +15,7 @@ import com.example.todayclient.databinding.ActivityMainBinding;
 import dagger.android.AndroidInjection;
 import dagger.android.DaggerActivity;
 
-public class MainActivity extends AppCompatActivity { //AppCompatActivity
+public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;

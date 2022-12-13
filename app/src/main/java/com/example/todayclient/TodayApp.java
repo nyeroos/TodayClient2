@@ -1,10 +1,11 @@
 package com.example.todayclient;
 
-import android.app.Activity;
 import android.app.Application;
 
-import javax.inject.Inject;
 import com.example.todayclient.di.DaggerAppComponent;
+
+import javax.inject.Inject;
+
 import dagger.android.AndroidInjector;
 import dagger.android.DispatchingAndroidInjector;
 import dagger.android.HasAndroidInjector;
