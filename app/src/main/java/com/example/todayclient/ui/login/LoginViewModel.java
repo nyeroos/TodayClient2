@@ -1,4 +1,7 @@
 package com.example.todayclient.ui.login;
 
-public class LoginViewModel {
+import androidx.lifecycle.ViewModel;
+
+public class LoginViewModel extends ViewModel {
+
 }
